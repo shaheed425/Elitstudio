@@ -63,3 +63,5 @@ FIREBASE_APP_ID=your_app_id
 .env
 .env.*
 !.env.example
+.seedAdmin.js
+.reset-admin.js
